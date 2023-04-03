@@ -1,0 +1,1 @@
+# Image-processing-and-machine-learning-methods-for-disease-detection-in-plants-using-leaves-images
